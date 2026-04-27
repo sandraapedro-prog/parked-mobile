@@ -1,9 +1,8 @@
 # PARKED. — Brand Guidelines
 
 > "Not abandoned, just parked."
-
-A calm, judgment-free mobile app where people store the ideas and hobbies they
-love but haven't gotten back to — ready for whenever they return.
+> 
+PARKED. is an mobile app where users can  “park” their ideas and hobbies in a simple and judgement-free way. Instead of letting it clutter their brain or do-to list, users can organise and pause things they mean to come back to. Not abandoned, just parked. 
 
 This document defines how PARKED. should look, sound, and feel across every
 surface: product UI, microcopy, notifications, and future marketing.
