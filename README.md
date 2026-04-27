@@ -1,3 +1,4 @@
+
 What is PARKED.?
 
 PARKED. is an idea and hobby parking lot where users can “park” their ideas and hobbies in a simple and judgement-free way. Instead of letting it clutter their brain or do-to list, users can organise and pause things they mean to come back to. Not abandoned, just parked. 
@@ -18,5 +19,15 @@ Profile stats — total count, how many are parked vs. active vs. released.
 Item detail — view, edit, revive (unpark) an item, snooze its check-in date, or let it go (delete).
 
 Archive - view what you choose to actively work on or decide to park something again until you're ready to come back to it.
- 
- 
+
+Built With:
+
+- React Native
+- Expo
+- JavaScript / TypeScript
+
+<img width="250" height="" alt="welcome" src="https://github.com/user-attachments/assets/c06d7ad6-b13b-41e5-b706-1099fd69dd71" />
+<img width="250" height="" alt="dasboard" src="https://github.com/user-attachments/assets/70dc314a-fab7-4d95-aa14-91aaecc17bf1" />
+<img width="250" height="" alt="park_it" src="https://github.com/user-attachments/assets/bc29e201-8b61-4841-b413-999a6b804563" />
+
+
