@@ -33,7 +33,7 @@ Let go without guilt<br>
 - **Archive system:**
 Manage active vs parked ideas and hobbies<br>
 
-<img width="4500" height="3000" alt="4" src="https://github.com/user-attachments/assets/249102bd-587c-4304-b9ca-bc5e177fb54f" />
+<img width="1920" height="auto" alt="4" src="https://github.com/user-attachments/assets/249102bd-587c-4304-b9ca-bc5e177fb54f" />
 
 ### Demo & Try it on your phone
 Scan the QR code below using Expo Go to open the app instantly.
@@ -46,7 +46,7 @@ Scan the QR code below using Expo Go to open the app instantly.
 PARKED. started as a simple idea sketched on paper, focusing on reducing mental clutter without adding pressure by creating quick hand-drawn layouts to explore structure and user flow. 
 After this, the interface was refined on Figma focusing on calm, minimal, and distraction-free design.
 
-<img width="3000" height="3450" alt="Wireframes_Figma_Designs" src="https://github.com/user-attachments/assets/041f6ac2-b65d-497c-8c63-eccca4478014" />
+<img width="1920" height="auto" alt="Wireframes_Figma_Designs" src="https://github.com/user-attachments/assets/041f6ac2-b65d-497c-8c63-eccca4478014" />
 
 <details>
   <summary><strong>Tech Stack</strong></summary><br>
