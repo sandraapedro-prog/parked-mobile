@@ -51,12 +51,12 @@ After this, the interface was refined on Figma focusing on calm, minimal, and di
 <details>
   <summary><strong>Tech Stack</strong></summary><br>
 
-**Framework & Language**<br>
+<strong>Framework & Language:</strong><br>
 - React Native 0.81 with Expo SDK 54<br>
 - TypeScript 5.9<br>
 - Expo Router 6<br>
 <br>
-**UI & Styling**<br>
+<strong>UI & Styling:</strong><br>
 - StyleSheet<br>
 - expo-linear-gradient, expo-blur<br>
 - reanimated + gesture-handler<br>
@@ -64,22 +64,22 @@ After this, the interface was refined on Figma focusing on calm, minimal, and di
 - vector-icons<br>
 - Custom fonts<br>
 <br>
-**State & Storage**<br>
+<strong>State & Storage:</strong><br>
 - React Context<br>
 - AsyncStorage<br>
 - Zod<br>
-
-**Build & Deploy**<br>
+<br>
+<strong>Build & Deploy:</strong><br>
 - Node.js build script<br>
 - Custom server<br>
 - Replit deployment<br>
 </details>
 
 <details>
-<summary><strong>Full Project Structure</strong></summary>
+<summary><strong>Full Project Structure</strong></summary><br>
 
 The architecture separates UI, state, and logic to keep the app maintainable and easy to scale.
-
+<br>
 <pre>
 app/
   index.tsx
@@ -120,3 +120,10 @@ server/serve.js
 
 </details>
 
+### License
+MIT
+
+### Author
+Sandra Pedro<br>
+<a href="https://github.com/sandraapedro-prog?tab=repositories" target="_blank">GitHub</a><br>
+<a href="https://www.linkedin.com/in/sandra-p-485753357" target="_blank">LinkedIn</a>
