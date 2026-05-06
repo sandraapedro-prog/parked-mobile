@@ -51,28 +51,28 @@ After this, the interface was refined on Figma focusing on calm, minimal, and di
 <details>
   <summary><strong>Tech Stack</strong></summary><br>
 
-**Framework & Language**
-- React Native 0.81 with Expo SDK 54
-- TypeScript 5.9
-- Expo Router 6
+**Framework & Language**<br>
+- React Native 0.81 with Expo SDK 54<br>
+- TypeScript 5.9<br>
+- Expo Router 6<br>
+<br>
+**UI & Styling**<br>
+- StyleSheet<br>
+- expo-linear-gradient, expo-blur<br>
+- reanimated + gesture-handler<br>
+- safe-area-context<br>
+- vector-icons<br>
+- Custom fonts<br>
+<br>
+**State & Storage**<br>
+- React Context<br>
+- AsyncStorage<br>
+- Zod<br>
 
-**UI & Styling**
-- StyleSheet
-- expo-linear-gradient, expo-blur
-- reanimated + gesture-handler
-- safe-area-context
-- vector-icons
-- Custom fonts
-
-**State & Storage**
-- React Context
-- AsyncStorage
-- Zod
-
-**Build & Deploy**
-- Node.js build script
-- Custom server
-- Replit deployment
+**Build & Deploy**<br>
+- Node.js build script<br>
+- Custom server<br>
+- Replit deployment<br>
 </details>
 
 <details>
