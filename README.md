@@ -1,33 +1,122 @@
 
-What is PARKED.?
+### What is PARKED.?
 
 PARKED. is an idea and hobby parking lot where users can “park” their ideas and hobbies in a simple and judgement-free way. Instead of letting it clutter their brain or do-to list, users can organise and pause things they mean to come back to. Not abandoned, just parked. 
 
-Core concepts:
+### The Problem
 
-- Park = save something for later
-- Unpark = return to it when ready
+Many people collect ideas and hobbies faster than they can act on them. 
+This often leads to:
+- Mental Overload
+- Forgotten Ideas
+- Guilt from unfinished projects
 
-Target users: Anyone who collects hobbies and ideas faster than they finish them (or remembers them).
+### The Solution
 
-Park an item — give it a title, description, category, energy level (low/medium/high), and an optional check-in date.
+- Park ideas or hobbies for later
+- Unpark them when you're ready to give it attention
+- Revisit them through gentle check-in reminders
 
-Dashboard — see all your parked ideas at a glance, with a “Due for Check-in” section highlighting what’s gently asking for your attention soon.
+### Features
+- **Park an idea or hobby:** 
+Add title, description, category, and energy level<br>
+- **Check-in system:**
+Set optional dates to revisit ideas and hobbies<br>
+- **Dashboard overview:**
+View all ideas and hobbies and see what’s due for attention<br>
+- **Unpark & revive:**
+Move ideas or hobbies back into active focus<br>
+- **Snooze functionality:**
+Delay check-ins when you’re not ready<br>
+- **Release ideas:**
+Let go without guilt<br>
+- **Archive system:**
+Manage active vs parked ideas and hobbies<br>
 
-Profile stats — total count, how many are parked vs. active vs. released. 
+<img width="4500" height="3000" alt="4" src="https://github.com/user-attachments/assets/249102bd-587c-4304-b9ca-bc5e177fb54f" />
 
-Item detail — view, edit, revive (unpark) an item, snooze its check-in date, or let it go (delete).
+### Demo & Try it on your phone
+Scan the QR code below using Expo Go to open the app instantly.
 
-Archive - view what you choose to actively work on or decide to park something again until you're ready to come back to it.
+<img width="302" height="auto" alt="Add Item Gif" src="https://github.com/user-attachments/assets/30ae9678-161b-47d6-8055-5cf900e75d15" /> 
+<img width="460" height="auto" alt="DEMO QR Code" src="https://github.com/user-attachments/assets/26094c68-22be-4f91-bdf6-7e0532c9b73d" />
 
-Built With:
 
-- React Native
-- Expo
-- JavaScript / TypeScript
+### Design process & Early Wireframes
+PARKED. started as a simple idea sketched on paper, focusing on reducing mental clutter without adding pressure by creating quick hand-drawn layouts to explore structure and user flow. 
+After this, the interface was refined on Figma focusing on calm, minimal, and distraction-free design.
 
-<img width="250" height="" alt="welcome" src="https://github.com/user-attachments/assets/c06d7ad6-b13b-41e5-b706-1099fd69dd71" />
-<img width="250" height="" alt="dasboard" src="https://github.com/user-attachments/assets/70dc314a-fab7-4d95-aa14-91aaecc17bf1" />
-<img width="250" height="" alt="park_it" src="https://github.com/user-attachments/assets/bc29e201-8b61-4841-b413-999a6b804563" />
+<img width="3000" height="3450" alt="Wireframes_Figma_Designs" src="https://github.com/user-attachments/assets/041f6ac2-b65d-497c-8c63-eccca4478014" />
 
+<details>
+  <summary><strong>Tech Stack</strong></summary><br>
+
+**Framework & Language**
+- React Native 0.81 with Expo SDK 54
+- TypeScript 5.9
+- Expo Router 6
+
+**UI & Styling**
+- StyleSheet
+- expo-linear-gradient, expo-blur
+- reanimated + gesture-handler
+- safe-area-context
+- vector-icons
+- Custom fonts
+
+**State & Storage**
+- React Context
+- AsyncStorage
+- Zod
+
+**Build & Deploy**
+- Node.js build script
+- Custom server
+- Replit deployment
+</details>
+
+<details>
+<summary><strong>Full Project Structure</strong></summary>
+
+The architecture separates UI, state, and logic to keep the app maintainable and easy to scale.
+
+<pre>
+app/
+  index.tsx
+  welcome.tsx
+  sign-in.tsx
+  register.tsx
+  _layout.tsx
+  (app)/
+    index.tsx
+    active.tsx
+    park.tsx
+    item/[id].tsx
+    park-again/
+    trash.tsx
+    settings.tsx
+
+components/
+  Button, Input, Pill, ItemCard, etc.
+
+contexts/
+  AuthContext
+  ItemsContext
+
+lib/
+  storage.ts
+  format.ts
+  fonts.ts
+  confirm.ts
+  categoryColors.ts
+
+constants/
+  colors.ts
+  parked.ts
+
+scripts/build.js
+server/serve.js
+</pre>
+
+</details>
 
