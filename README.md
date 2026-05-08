@@ -3,6 +3,14 @@
 
 PARKED. is an idea and hobby parking lot where users can “park” their ideas and hobbies in a simple and judgement-free way. Instead of letting it clutter their brain or do-to list, users can organise and pause things they mean to come back to. Not abandoned, just parked. 
 
+<img width="1920" height="auto" alt="4" src="https://github.com/user-attachments/assets/249102bd-587c-4304-b9ca-bc5e177fb54f" />
+
+### Demo & Try it on your phone
+Scan the QR code below using Expo Go to open the app instantly.
+
+<img width="302" height="auto" alt="Add Item Gif" src="https://github.com/user-attachments/assets/30ae9678-161b-47d6-8055-5cf900e75d15" /> 
+<img width="460" height="auto" alt="DEMO QR Code" src="https://github.com/user-attachments/assets/26094c68-22be-4f91-bdf6-7e0532c9b73d" />
+
 ### The Problem
 
 Many people collect ideas and hobbies faster than they can act on them. 
@@ -32,14 +40,6 @@ Delay check-ins when you’re not ready<br>
 Let go without guilt<br>
 - **Archive system:**
 Manage active vs parked ideas and hobbies<br>
-
-<img width="1920" height="auto" alt="4" src="https://github.com/user-attachments/assets/249102bd-587c-4304-b9ca-bc5e177fb54f" />
-
-### Demo & Try it on your phone
-Scan the QR code below using Expo Go to open the app instantly.
-
-<img width="302" height="auto" alt="Add Item Gif" src="https://github.com/user-attachments/assets/30ae9678-161b-47d6-8055-5cf900e75d15" /> 
-<img width="460" height="auto" alt="DEMO QR Code" src="https://github.com/user-attachments/assets/26094c68-22be-4f91-bdf6-7e0532c9b73d" />
 
 
 ### Design process & Early Wireframes
